@@ -1,0 +1,5 @@
+Icon.ini
+SNSIcon1.ini
+SNSIcon2.ini
+SNSIcon3.ini
+Text.txt
