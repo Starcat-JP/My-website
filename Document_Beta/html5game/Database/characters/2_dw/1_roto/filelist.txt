@@ -1,3 +1,2 @@
 Text.txt
 Icon.ini
-Icon2.ini
