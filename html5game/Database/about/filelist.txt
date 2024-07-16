@@ -1,0 +1,7 @@
+Icon.ini
+SNSIcon1.ini
+SNSIcon2.ini
+SNSIcon3.ini
+sougobanner1.ini
+sougobanner2.ini
+Text.txt
