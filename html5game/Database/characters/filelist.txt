@@ -1,4 +1,2 @@
 Icon1.ini
 Icon2.ini
-Icon3.ini
-Icon4.ini

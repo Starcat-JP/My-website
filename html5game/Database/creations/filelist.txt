@@ -3,3 +3,4 @@ Icon2.ini
 Icon3.ini
 Icon4.ini
 Icon5.ini
+RC.ini
