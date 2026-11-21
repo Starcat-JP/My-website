@@ -1,9 +1,9 @@
-back_RC.ini
+back_rc.ini
 back_maspower.ini
 Icon1.ini
 Icon2.ini
 Icon3.ini
 Icon4.ini
 Icon5.ini
-RC.ini
+rc.ini
 maspower.ini
