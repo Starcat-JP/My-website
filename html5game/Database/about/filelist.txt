@@ -3,6 +3,7 @@ SNSIcon1.ini
 SNSIcon2.ini
 SNSIcon3.ini
 SNSIcon4.ini
+SNSIcon5.ini
 sougobanner1.ini
 sougobanner2.ini
 sougobanner3.ini
